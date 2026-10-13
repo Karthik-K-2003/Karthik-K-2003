@@ -104,6 +104,20 @@ A full-stack blog application built with Django.
 
 ---
 
+### ♻️ Waste Classification System
+
+A computer vision project for classifying waste using a trained YOLOv8 model.
+
+**Technologies:** Python, YOLOv8, Roboflow, Google Colab
+
+**Features:**
+- Waste image classification
+- Custom dataset
+- Model training
+- Computer vision-based detection
+
+---
+
 ### 💰 Flask Expense Tracker
 
 A web application for managing and tracking personal expenses.
@@ -119,20 +133,6 @@ A web application for managing and tracking personal expenses.
 
 ---
 
-### ♻️ Waste Classification System
-
-A computer vision project for classifying waste using a trained YOLOv8 model.
-
-**Technologies:** Python, YOLOv8, Roboflow, Google Colab
-
-**Features:**
-- Waste image classification
-- Custom dataset
-- Model training
-- Computer vision-based detection
-
----
-
 ## 🎯 My Development Goals
 
 - Become a strong Python Full-Stack Developer
@@ -144,6 +144,7 @@ A computer vision project for classifying waste using a trained YOLOv8 model.
 
 ---
 
+<!--
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -152,6 +153,7 @@ A computer vision project for classifying waste using a trained YOLOv8 model.
 </p>
 
 ---
+-->
 
 ## 🌐 Connect With Me
 
