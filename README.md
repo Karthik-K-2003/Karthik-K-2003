@@ -33,11 +33,14 @@
 
 ## 📊 GitHub Stats:
 
-![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karthik-K-2003&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karthik-K-2003&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-K-2003&layout=compact&theme=radical&hide_border=true" height="180"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karthik-K-2003&theme=radical&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-K-2003&theme=radical&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Karthik-K-2003&theme=radical&hide_border=true" />
+</p>
 
 ---
 
